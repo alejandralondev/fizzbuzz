@@ -1,0 +1,33 @@
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+h1, p {
+  text-align: center;
+  color: white;
+}
+
+li{
+  color: white;
+}
+
+body{
+  background-color: rgb(52, 52, 113);
+}
+p{
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
